@@ -5,7 +5,7 @@ Finally Completed! If you can say a project is ever really completed. At least n
 
 It all started when I had a nice new 3D Printer and wanted to do something with it. I was watching an episode of Corridor Crew on you tube when they started talking about a 3D Printed Catan board they were working on. I like Catan and I thought that would be a good project to work on.
 
-	As I was planning this my flatmate mentioned that it would be cool if it could have LEDs and light up the squares on a dice roll. The more we talked about it the more I got excited about this idea and the more I realised that it was just outside of my skill level to achieve. Which is the best place to be in my opinion as it would mean I would challenge myself and learn new things. 12 months later I have a finished board.
+  As I was planning this my flatmate mentioned that it would be cool if it could have LEDs and light up the squares on a dice roll. The more we talked about it the more I got excited about this idea and the more I realised that it was just outside of my skill level to achieve. Which is the best place to be in my opinion as it would mean I would challenge myself and learn new things. 12 months later I have a finished board.
 
 I started this board having a few things in mind I wanted to get out of it:
 	Firstly, that it would have an electronic dice and that the resource square would light up on the roll of the dice.
