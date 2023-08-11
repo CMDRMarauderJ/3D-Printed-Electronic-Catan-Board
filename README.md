@@ -37,7 +37,7 @@ I started this board having a few things in mind I wanted to get out of it:
 
 ![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/3647000a-2bae-4d64-ab60-8f7dcdc3b793)
 
-![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/bb648e81-0b16-4617-8d9d-98e1f99366f6)	![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/a58591f4-333e-4680-a045-189745516fe3)
+![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/bb648e81-0b16-4617-8d9d-98e1f99366f6)		![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/a58591f4-333e-4680-a045-189745516fe3)
 
 ![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/869a0e5b-90c9-43d7-84a3-aca2e5c3447e)
 
