@@ -66,5 +66,9 @@ When the winner is determined, play can be ended by the winner holding their but
   A lot of my starting code and initial structure came from jareddilley’s SMART-Catan-game-board that I found on GitHub here. https://github.com/jareddilley. His code for his catan board is simple and elegant, which is very far off my finished product. But this was a launchpad to build my code from. His code for the random board setup is fantastic and took me weeks to figure out how it even worked when I started out, I could never have figured this out without finding his code.
   My code for the dice roll mostly came from Nelson Bowers catan dice I found on YouTube here https://www.youtube.com/watch?v=biL6dSZkcWw&ab_channel=NelsonBowers
 Most other code was created by my amateur self, or adapting other solutions for my needs the best I could. I pulled from loads of different how-to’s, beginners guides and forums from the Arduino community.
+  Catan board 3D print files came from BradLeBard on Thingiverse https://www.thingiverse.com/thing:4157609 who remixed them from Dakanzla design https://www.thingiverse.com/thing:2525047
+  Catan building cost's card came from willnickisch design https://www.thingiverse.com/thing:886979
+  I will also try and put up my designs on Thingiverse in the upcomming weeks https://www.thingiverse.com/jamie258/designs.
+  
 
 Anyways hope this helps anyone else trying to get their own project off the ground or inspires someone to build from this and perhaps make something better! If it does, I’d been extremely keen on hearing from you. I will try to do a video of the whole thing in a few weeks and put it up on YouTube.
