@@ -8,10 +8,15 @@ It all started when I had a nice new 3D Printer and wanted to do something with 
   As I was planning this my flatmate mentioned that it would be cool if it could have LEDs and light up the squares on a dice roll. The more we talked about it the more I got excited about this idea and the more I realised that it was just outside of my skill level to achieve. Which is the best place to be in my opinion as it would mean I would challenge myself and learn new things. 12 months later I have a finished board.
 
 I started this board having a few things in mind I wanted to get out of it:
+
   Firstly, that it would have an electronic dice and that the resource square would light up on the roll of the dice.
+  
   That it would be flexible to play either a 2-4 player board or a 5-6 player board.
+  
   That it could have some statistics shown at the end of the game.
+  
   I wanted the board to be able to generate a random board itself but within the rules of Catan board layouts.
+  
   That it could be transportable.
 
   I started out printing and painting all the board pieces and player pieces. Then made some cases to transport these pieces in. This taught me a lot on using Tinkercad and how to modify other people’s 3d designs for my needs.
