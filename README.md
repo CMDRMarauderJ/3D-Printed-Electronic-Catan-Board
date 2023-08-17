@@ -12,6 +12,7 @@ I started this board having a few things in mind I wanted to get out of it:
   That it would be flexible to play either a 2-4 player board or a 5-6 player board.
   That it could have some statistics shown at the end of the game.
   I wanted the board to be able to generate a random board itself but within the rules of Catan board layouts.
+  If the power was cut from the board for any reson, the last board layout would be saved and could be loaded back in on request.
   That it could be transportable.
 
   I started out printing and painting all the board pieces and player pieces. Then made some cases to transport these pieces in. This taught me a lot on using Tinkercad and how to modify other people’s 3d designs for my needs.
@@ -51,6 +52,8 @@ This is its function for now:
 
 ![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/6a7ae36e-ade3-4cb1-b864-3b386ba6298b)
  
+   This tile layout and active player list also saves to the Arduino Eeprom. If the board gets downpowered or you simply want to continue the game another time you can reload the last board layout by holding down any player button on power up. It will retreave all the settings from Eeprom.
+  
   After the ports and the resources are placed and player can hold down the button for 3 seconds to advance the program. Next is the layout of the dice roll tokens. As per the rules the tokens are placed in a specific order starting at anyone of the corners of the board and spiralling inward to the centre of the board skipping any deserts. The randomly selects one of these corners and lights it red. Then each next tile in the sequence lights up and spirals into the centre to indicate the sequence. This repeats until you lay out the tokens and press any button for 3 seconds.
 
 ![image](https://github.com/CMDRMarauderJ/Electronic-Catan-Board/assets/77212927/6ad5301e-3ab2-450c-acaa-cf10aa0e2709)
